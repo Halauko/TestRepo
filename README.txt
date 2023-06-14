@@ -8,4 +8,5 @@
  git status\
  git add Readme.md
  git commit -m "init: add Readme file'
- git push origin master 
+ git push origin master
+ git clone https://github.com/Halauko/testRepo.git
