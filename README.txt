@@ -10,3 +10,5 @@
  git commit -m "init: add Readme file'
  git push origin master
  git clone https://github.com/Halauko/testRepo.git
+
+Some more text
