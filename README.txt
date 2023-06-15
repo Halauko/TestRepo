@@ -11,4 +11,4 @@
  git push origin master
  git clone https://github.com/Halauko/testRepo.git
 
-Some more text
+Some more text!
